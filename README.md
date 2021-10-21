@@ -1,1 +1,0 @@
-# mobile-net2
