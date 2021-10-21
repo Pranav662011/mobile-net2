@@ -1,0 +1,31 @@
+img{
+    height: 400;
+    width: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+
+}
+
+.test_image_and_result {
+   background-color: gray;
+   padding: 30px;
+   border-radius: 20px;
+   margin-top:  50px;
+   box-shadow: 5px 5px 18px grey;
+
+}
+ol{
+    padding: 0px;
+}
+body{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+h5{
+    font-size: 30px;
+}
+h4{
+    font-size: 25px;
+}
